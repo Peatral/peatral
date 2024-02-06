@@ -1,15 +1,15 @@
-# Hello there...
+```JavaScript
+console.log([80, 101, 97, 116, 114, 97, 108].map(char => String.fromCharCode(char)).reduce((a, b) => a + b, ""));
 
-### FAQ
-- **Who am I?**<br>
-CS Student who procrastinates too much, gamer, programmer.
+// Booh! Did I scare ya away with spooky JavaScript?
+// TODO: Just use String.fromCharCode instead of array shenanigans
+// (But they are just so much fun)
+```
 
-- **What am I working on?** <br>
-Minecraft mods, personal projects, a lot of personal projects.<br>
-Did I already say personal projects?
+## What I have worked on
+- 🌎 [peatral.xyz](https://peatral.xyz) - My website, a funky blog where I sometimes post stuff
+- 🔨 [Embers' Construct](https://www.curseforge.com/minecraft/mc-mods/embersconstruct) - A Minecraft mod, connecting Embers Rekindled and Tinkers' Construct
+- 🤖 [GPD-Bot](https://peatral.xyz/bot) - A privately used Discord Bot
 
-- **Why are you reading this?**<br>
-I don't know...
-
-## Stuff
-You may visit my [website](https://peatral.xyz), I don't know why, but who knows...
+## That's it
+I mostly work on private projects, fiddling around with tech such as Godot Engine and React.
